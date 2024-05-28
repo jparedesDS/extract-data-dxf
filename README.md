@@ -1,5 +1,5 @@
 # Data Extraction from DXF Files
-This project provides a Python script to extract data from DXF files and save it to a new DXF file with specific formatting.
+This project provides a Python script to extract data from DXF files for entity identification in technical drawings.
 
 Description
 The script extracts data from various types of entities present in DXF files, such as lines, circles, arcs, polylines, text, dimensions, etc. It then uses this data to create a new DXF file with the same entities, formatted according to a specific format.
