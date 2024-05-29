@@ -11,11 +11,9 @@ Support for multiple entity types: The script can handle different types of enti
 Easy to use: Simply provide the path to the input DXF file and the script will automatically generate the output DXF file with the extracted data.
 
 Requirements
-Python 3.x
-ezdxf library
+- Python 3.x
+- ezdxf library
 
 python extract_dxf_data.py path/from/file.dxf
 The script will generate a new DXF file with the extracted data formatted according to the specified format.
 It also generates the vector output of the .dxf file.
-
-Translated with DeepL.com (free version)
