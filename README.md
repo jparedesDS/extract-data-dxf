@@ -15,5 +15,6 @@ Requirements
 - ezdxf library
 
 python extract_dxf_data.py path/from/file.dxf
+
 The script will generate a new DXF file with the extracted data formatted according to the specified format.
 It also generates the vector output of the .dxf file.
