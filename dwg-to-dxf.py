@@ -10,8 +10,8 @@ import subprocess
 # (Optional) Input files filter: *.DWG, *.DXF
 
 TEIGHA_PATH = r"C:\\Program Files\\ODA\\ODAFileConverter 25.4.0\\ODAFileConverter.exe"
-INPUT_FOLDER = r"C:\\Users\\alejandro.berzal\\Desktop\\DATA SCIENCE\\eDocument\\data"
-OUTPUT_FOLDER = r"C:\\Users\\alejandro.berzal\\Desktop\\DATA SCIENCE\\eDocument\\data"
+INPUT_FOLDER = r"C:\\Users\\xhito\\Desktop\\DATA SCIENCE\\eDocument\\data"
+OUTPUT_FOLDER = r"C:\\Users\\xhito\\Desktop\\DATA SCIENCE\\eDocument\\data"
 OUTVER = "ACAD2018"
 OUTFORMAT = "DXF"
 RECURSIVE = "0"
