@@ -271,8 +271,8 @@ def create_dwg_file(output_path, data):
     doc.saveas(output_path)
 
 # Uso del script
-dwg_file = r"C:\\Users\\alejandro.berzal\\Desktop\\DATA SCIENCE\\eDocument\\data\\Weld-Neck-Flange-2-Inch-Class-300.dxf"
-output_file = r"C:\\Users\\alejandro.berzal\\Desktop\\DATA SCIENCE\\eDocument\\data\\extracted_data.dxf"
+dwg_file = r"C:\\Users\\xhito\\Desktop\\DATA SCIENCE\\eDocument\\data\\Weld-Neck-Flange-2-Inch-Class-300.dxf"
+output_file = r"C:\\Users\\xhito\\Desktop\\DATA SCIENCE\\eDocument\\data\\extracted_data.dxf"
 extracted_data = extract_dwg_data(dwg_file)
 
 # Guardar los datos extraídos en un nuevo archivo DXF
