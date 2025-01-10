@@ -50,7 +50,7 @@ To extract data from a DXF file and generate a new formatted DXF file:
 
 1. Clone the repository:  
 ```
-   git clone https://github.com/your-username/dxf-data-extraction.git  
+   git clone https://github.com/jparedesDS/dxf-data-extraction.git  
    cd dxf-data-extraction
 ```
 2. Run the script:
